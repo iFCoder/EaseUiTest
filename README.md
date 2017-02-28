@@ -1,6 +1,7 @@
 # EaseUiTest
 EaseUI环信集成
    对于现在APP端的聊天功能一直是比较感兴趣的，借此闲暇时间来对EaseUI进行了一定的了解，从而写了一个测试的Demo
+   CSDN地址：http://blog.csdn.net/lf0814/article/details/52473678 
    1.首先需要在环信平台进行开发者注册，https://console.easemob.com/index.html
    注册成功后创建应用，如下图所示
    ![这里写图片描述](http://img.blog.csdn.net/20160908162531439)
