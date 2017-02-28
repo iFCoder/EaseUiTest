@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/eu_uname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="username"/>
+    <EditText
+        android:id="@+id/eu_pwd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="password"/>
+
+    <Button
+        android:id="@+id/eu_reg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="注册"/>
+
+    <Button
+        android:id="@+id/eu_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="登录"/>
+</LinearLayout>

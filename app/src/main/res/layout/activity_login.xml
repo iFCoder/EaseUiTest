@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/eu_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="输入聊天的对方账号"/>
+
+    <Button
+        android:id="@+id/eu_chat"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="发起聊天"/>
+
+    <Button
+        android:id="@+id/eu_loginup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="退出登录"/>
+
+</LinearLayout>
